@@ -1,2 +1,23 @@
-# Algorithm_baekjoon
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 
+# 백준 & 프로그래머스 문제 풀이 목록
+
+프로그래머스의 경우, 푼 문제 목록에 대한 마이그레이션이 필요합니다.
+
+## 📚 백준
+### 🚀 Bronze
+| 문제번호 | 링크 |
+| ----- | ----- |
+|1330. 두 수 비교하기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1330.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0/%EB%91%90%E2%80%85%EC%88%98%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.cc)|
+### 🚀 Silver
+| 문제번호 | 링크 |
+| ----- | ----- |
+|17478. 재귀함수가 뭔가요？|[링크](./%EB%B0%B1%EC%A4%80/Silver/17478.%E2%80%85%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EA%B0%80%E2%80%85%EB%AD%94%EA%B0%80%EC%9A%94%EF%BC%9F/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EA%B0%80%E2%80%85%EB%AD%94%EA%B0%80%EC%9A%94%EF%BC%9F.cc)|
+## 📚 프로그래머스
+### 🚀 1
+| 문제번호 | 링크 |
+| ----- | ----- |
+|147355. 크기가 작은 부분문자열|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/147355.%E2%80%85%ED%81%AC%EA%B8%B0%EA%B0%80%E2%80%85%EC%9E%91%EC%9D%80%E2%80%85%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4/README.md)|
+### 🚀 2
+| 문제번호 | 링크 |
+| ----- | ----- |
+|12939. 최댓값과 최솟값|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/12939.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92.cpp)|
