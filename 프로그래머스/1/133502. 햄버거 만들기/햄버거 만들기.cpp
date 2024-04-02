@@ -1,16 +1,33 @@
-#include <string>
+#include <stack>
+#include <iostream>
 #include <vector>
 using namespace std;
 
 int solution(vector<int> ingredient) {
+    stack<int> st1;
     int answer = 0;
-    vector<int> v = { -1 };
-    for(int x : ingredient){
-        if(v.back() == 1 && x == 2) v.back() = 12;
-        else if(v.back() == 12 && x == 3) v.back() = 123;
-        else if(v.back() == 123 && x == 1) answer++, v.pop_back();
-        else v.push_back(x);
-    }    
-
+    for (int i = 0; i < ingredient.size(); i++) {
+        int idx = ingredient[i];
+        if (idx == 1) {
+            if (!st1.empty()&&st1.top() == 3 ) {
+                for (int j = 0; j < 3; j++) {
+                    st1.pop();
+                }
+                answer++;
+            }
+            else { st1.push(idx); };
+        }
+        else {
+            if (!st1.empty()&&st1.top() + 1 == idx) {
+                st1.push(idx);
+                
+            }
+            else {
+                continue;
+            }
+        }
+        
+    }
+    
     return answer;
 }
