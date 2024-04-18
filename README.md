@@ -10,6 +10,7 @@
 |10808. 알파벳 개수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10808.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3%E2%80%85%EA%B0%9C%EC%88%98/README.md)|
 |1330. 두 수 비교하기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1330.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0/README.md)|
 |2309. 일곱 난쟁이|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2309.%E2%80%85%EC%9D%BC%EA%B3%B1%E2%80%85%EB%82%9C%EC%9F%81%EC%9D%B4/README.md)|
+|2979. 트럭 주차|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2979.%E2%80%85%ED%8A%B8%EB%9F%AD%E2%80%85%EC%A3%BC%EC%B0%A8/README.md)|
 ### 🚀 Silver
 | 문제번호 | 링크 |
 | ----- | ----- |
