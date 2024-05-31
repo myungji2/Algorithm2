@@ -30,6 +30,7 @@
 |12865. 평범한 배낭|[링크](./%EB%B0%B1%EC%A4%80/Gold/12865.%E2%80%85%ED%8F%89%EB%B2%94%ED%95%9C%E2%80%85%EB%B0%B0%EB%82%AD/README.md)|
 |1655. 가운데를 말해요|[링크](./%EB%B0%B1%EC%A4%80/Gold/1655.%E2%80%85%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A5%BC%E2%80%85%EB%A7%90%ED%95%B4%EC%9A%94/README.md)|
 |19942. 다이어트|[링크](./%EB%B0%B1%EC%A4%80/Gold/19942.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8/README.md)|
+|2933. 미네랄|[링크](./%EB%B0%B1%EC%A4%80/Gold/2933.%E2%80%85%EB%AF%B8%EB%84%A4%EB%9E%84/README.md)|
 ### 🚀 Silver
 | 문제번호 | 링크 |
 | ----- | ----- |
